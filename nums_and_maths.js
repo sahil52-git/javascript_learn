@@ -22,4 +22,7 @@ console.log(Math.abs(1));
 console.log(Math.round(99.99));
 console.log(Math.ceil(999.99));
 
+console.log(Math.random());
+console.log(Math.min(4, 3, 2, 1, -1, 0));
+console.log(Math.max(10, 20, 21, 45));
 
