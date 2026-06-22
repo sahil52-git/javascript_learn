@@ -51,3 +51,10 @@ console.log(last_One_Array);
 console.log(Array.isArray("Sahil"));
 console.log(Array.from("Sahil"));
 
+let score1 = 100
+let score2 = 200
+let score3 = 999
+
+console.log(Array.of(score1, score2, score3));
+
+
