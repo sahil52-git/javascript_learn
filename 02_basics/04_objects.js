@@ -43,7 +43,7 @@ tinderUser.name = "Sahil"
    console.log(courseLearn);
    
 
-//json 
+/*json 
    {
     "name" : "sahil",
     "course" : "javascript",
@@ -54,3 +54,6 @@ tinderUser.name = "Sahil"
     {},
     {},
    }
+   */
+
+   
